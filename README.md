@@ -1,6 +1,6 @@
 # Проект 0. Угадай число
 
-## Оглаавление
+## Оглавление
 [1. Описание проекта](https://github.com/Dennissn/sf_data_science/tree/main/project_0/README.MD#Описание-проекта)
 
 [2. Какой кейс решаем?](https://github.com/Dennissn/sf_data_science/tree/main/project_0/README.MD#Какой-кейс-решаем)
