@@ -39,4 +39,4 @@
 ### Краткая информация о данных
 ....
 
-:arrow_up:[к оглавлению](https://github.com/Dennissn/sf_data_science/tree/main/project_0/README.MD#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Dennissn/sf_data_science/tree/#Оглавление)
