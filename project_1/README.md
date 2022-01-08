@@ -1,5 +1,7 @@
 # Проект 1. Анализ вакансий из HeadHunter 
 
+(https://nbviewer.jupyter.org/github/Dennissn/sf_data_science/tree/main/project_1/project_1.ipynb)
+
 ## Оглавление
 [1. Описание проекта](https://github.com/Dennissn/sf_data_science/tree/main/project_1/#Описание-проекта)
 
