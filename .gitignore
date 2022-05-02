@@ -129,3 +129,11 @@ dmypy.json
 .pyre/
 project_1/dst-3.0_16_1_hh_database.csv
 project_1/ExchangeRates.csv
+python-16_json_in_pandas-jvsc-97a910d2-0f6c-492b-a05a-58d66dd464dd.ipynb
+eda-1_check(test)-jvsc-19e3c345-4241-4fda-b289-bd3cd0bf87d7.ipynb
+eda-1_one_line-jvsc-41ea6fdb-5018-4083-b959-5663c48e7210.ipynb
+eda-1_wine_intro-jvsc-e6d2c3b9-7b2e-41c2-a4ae-db50bb22f3ee.ipynb
+sql-2_2distinct-jvsc-c3fa41ba-452b-41e5-b6ec-35a9c6ef5218.ipynb
+sql-3_filtr_aggregation-jvsc-9013057f-fffd-4c64-be9e-ebddf2d6656f.ipynb
+eda-2_correlation_visualization-jvsc-73706771-615c-4e47-9e1f-3d6b9d8e3f53.ipynb
+eda-4_normality_tests-jvsc-a394e186-56ea-401d-aeca-1513e30cf793.ipynb
