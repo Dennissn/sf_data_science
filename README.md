@@ -12,4 +12,6 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 [Проект 3. EDA + Feature Engineering. Соревнование на Kaggle](https://github.com/Dennissn/sf_data_science/tree/main/project_3) [(открыть в jupyter nbviewer)](https://nbviewer.org/github/Dennissn/sf_data_science/blob/main/project_3/project_3.ipynb)
 
+[Проект 7. Автоматическая правильная линия](https://github.com/Dennissn/sf_data_science/tree/main/project_7) [(открыть в jupyter nbviewer)](https://nbviewer.org/github/Dennissn/sf_data_science/blob/main/project_7/sk_APL_final.ipynb)
+
 ## Ссылка на резюме
